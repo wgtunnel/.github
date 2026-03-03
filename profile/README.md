@@ -10,5 +10,8 @@ Whether you simply want to **automate when you're connected** to your VPN or you
 
 ---
 
-**[View the main android app repository →](https://github.com/wgtunnel/wgtunnel)**
-**[View the main desktop app repository →](https://github.com/wgtunnel/desktop)**
+### Main repositories
+
+- **[Android](https://github.com/wgtunnel/wgtunnel)**
+
+- **[Desktop](https://github.com/wgtunnel/desktop)**
